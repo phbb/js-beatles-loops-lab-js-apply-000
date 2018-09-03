@@ -5,5 +5,5 @@ function theBeatlesPlay(musicians, instruments) {
        console.log (musicians[i])
         result.push(musicians[i] + " plays " + instruments[i])
     }
-    return (string)
+    return result
 } 
