@@ -3,3 +3,5 @@ function theBeatlesPlay(musicians, instruments) {
     for (i = 0; i < 3; i++) {
        console.log (musicians[i])
   }
+  
+  
